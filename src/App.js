@@ -15,7 +15,7 @@ function App() {
     <div className="container">
       <div className="background-element"/>
       <div className="highlight-window">
-        <div className='highlight-overlay'/>
+        <div className="highlight-overlay"/>
       </div>
       <div className="window">
         <ShopItemClass item={item} />
